@@ -1,0 +1,28 @@
+.main{
+    background-color: grey;
+    padding: 30px 30px;
+
+}
+
+.navbar-collapse{
+    background-color: grey;
+    
+}
+
+body{
+    margin:0;
+}
+
+.nav-link:hover{
+    background-color:azure;
+}
+
+.dropdown-divider{
+    margin:0;
+    padding:0;
+}
+
+.content {
+    text-align: justify;
+  }
+  
